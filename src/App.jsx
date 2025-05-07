@@ -6,6 +6,7 @@ import PropertyListing from './component/PropertyListing'
 import RealEstateServices from './component/RealEstateServices'
 import PropertyShowcase from './component/PropertyShowcase'
 import TestimonialSlider from './component/TestimonialSlider'
+import Footer from './component/footer'
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <RealEstateServices/>
       <PropertyShowcase/>
       <TestimonialSlider/>
+      <Footer/>
     </div>
   )
 }

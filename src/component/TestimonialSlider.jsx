@@ -25,7 +25,7 @@ export default function TestimonialSlider() {
       name: "Antonella",
       category: "Logistics",
       text: '"Superleuk uitzendbureau om te werken! Diverse huizen, leuke en verschillende collega\'s waardoor het nooit saai wordt. Je bent erg vrij om je werk zelf in te plannen maar tegelijkertijd je werkplekken hebt. Hard werken wordt beloond door middel van een salarissysteem."',
-      rating: 5,
+      rating: 4 ,
     },
     {
       name: "Michael",
